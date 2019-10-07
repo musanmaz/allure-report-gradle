@@ -4,7 +4,7 @@
 <suite name="My suite">
     <test name="All">
         <classes>
-            <class name="org.example.allure.testng.ExampleTestSuite"/>
+            <class name="ExampleTestSuite"/>
         </classes>
     </test>
 </suite>
